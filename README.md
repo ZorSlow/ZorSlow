@@ -5,23 +5,8 @@
 </p>
 
 <p align="center">
-  <b>💻 Développeur Web Junior | Passionné par l'écosystème JavaScript</b><br>
-  <i>Actuellement en Bachelier Informatique de Gestion (ISFCE) & Formation Web (EFP)</i>
-</p>
-
----
-
-<p align="center">
-  <b>🚀 À propos de moi</b><br>
-  Développeur en formation supérieure avec un esprit d'analyse aiguisé.<br>
-  Plus de <b>6 ans d'expérience professionnelle</b>, garantissant maturité et rigueur à toute épreuve.<br>
-  📍 Basé à Bruxelles, Belgique 🇧🇪
-</p>
-
-<p align="center">
-  🎯 <b>Objectif :</b> Mettre mes fondamentaux en <b>JavaScript et SQL</b> au service de projets ambitieux.<br>
-  Mon parcours se distingue par une solide maturité acquise en parallèle de mes études,<br>
-  me permettant d'apporter autonomie et adaptation à votre équipe technique.
+  <b>💻 Développeur Web Junior | Étudiant en Informatique de Gestion (ISFCE)</b><br>
+  📍 Bruxelles, Belgique 🇧🇪 | 📧 <a href="mailto:Boubacar_Bah@outlook.be">Boubacar_Bah@outlook.be</a>
 </p>
 
 ---
@@ -36,7 +21,7 @@
 
 ---
 
-<h3 align="center">⚡ Stats ⚡</h3>
+<h3 align="center">⚡ GitHub Stats ⚡</h3>
 
 <p align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZorSlow&layout=compact&langs_count=7&theme=tokyonight" />
@@ -49,15 +34,14 @@
 
 ---
 
-<p align="center">
-  <b>🎮 En dehors du code</b><br>
-  🏆 eSport (Stratégie) | ⚽ Futsal & Musculation | 📚 Veille Technologique
-</p>
-
----
-
-<h3 align="center">📫 Me contacter</h3>
+<h3 align="center">📫 Me contacter & Liens</h3>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/boubacar-bah-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="https://zorslow.github.io/portfolio/" target="blank"><img align="center" src="
+<a href="https://zorslow.github.io/portfolio/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="Portfolio" height="30" width="40" /></a>
+<a href="mailto:Boubacar_Bah@outlook.be"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/envelope.svg" alt="Email" height="30" width="40" /></a>
+</p>
+
+<p align="center">
+  <i>"Curieux, Motivé, Rigoureux et Déterminé"</i>
+</p>
