@@ -14,7 +14,7 @@
 <p align="center">
   🚀 <b>Current Focus:</b> Deepening <b>TypeScript </b> & <b>Node.js</b> ecosystem.<br>
   💡 <b>Strengths:</b> Adaptability, Problem Solving & Strong Work Ethic.<br>
-  📂 <b>Projects:</b> Feel free to explore my repositories below!
+📂 <b>All my public projects are available <a href="https://github.com/ZorSlow?tab=repositories">here</a></b>.<br>
 </p>
 
 ---
