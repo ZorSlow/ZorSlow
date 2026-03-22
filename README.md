@@ -8,6 +8,7 @@
   <b>💻 Junior Web Developer | Business Informatics Student</b><br>
   📍 Brussels, Belgium 🇧🇪
 </p>
+
 ---
 
 <p align="center">
