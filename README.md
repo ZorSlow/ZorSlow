@@ -1,12 +1,20 @@
-<h1 align="center">👋 Salut, moi c'est Boubacar Bah !</h1>
+<h1 align="center">👋 Hi, I'm Boubacar Bah!</h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ZorSlow&label=Profile%20views&color=0e75b6&style=flat" alt="ZorSlow" />
 </p>
 
 <p align="center">
-  <b>💻 Développeur Web Junior | Étudiant en Informatique de Gestion (ISFCE)</b><br>
-  📍 Bruxelles, Belgique 🇧🇪 | 📧 <a href="mailto:Boubacar_Bah@outlook.be">Boubacar_Bah@outlook.be</a>
+  <b>💻 Junior Web Developer | Business Informatics Student</b><br>
+  📍 Brussels, Belgium 🇧🇪
+</p>
+
+---
+
+<p align="center">
+  🚀 <b>Currently focusing on JavaScript & SQL</b><br>
+  💼 6+ years of professional experience, bringing maturity and rigor to tech teams.<br>
+  📧 Reach me at: <a href="mailto:Boubacar_Bah@outlook.be">Boubacar_Bah@outlook.be</a>
 </p>
 
 ---
@@ -34,18 +42,20 @@
 
 ---
 
-<h3 align="center">📫 Me contacter & Liens</h3>
+<h3 align="center">🔗 Connect with me</h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/boubacar-bah-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="https://zorslow.github.io/portfolio/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/briefcase.svg" alt="Portfolio" height="30" width="40" /></a>
-<a href="mailto:Boubacar_Bah@outlook.be"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/envelope.svg" alt="Email" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/boubacar-bah-dev" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://zorslow.github.io/portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox-browser&logoColor=white" alt="Portfolio">
+  </a>
+  <a href="mailto:Boubacar_Bah@outlook.be">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
 </p>
 
 <p align="center">
-  🌐 <a href="https://zorslow.github.io/portfolio/"><b>Mon Portfolio en ligne</b></a>
-</p>
-
-<p align="center">
-  <i>"Curieux, Motivé, Rigoureux et Déterminé"</i>
+  <i>"Curious, Motivated, Rigorous and Determined"</i>
 </p>
