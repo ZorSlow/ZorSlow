@@ -38,8 +38,12 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/boubacar-bah-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="https://zorslow.github.io/portfolio/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="Portfolio" height="30" width="40" /></a>
+<a href="https://zorslow.github.io/portfolio/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/briefcase.svg" alt="Portfolio" height="30" width="40" /></a>
 <a href="mailto:Boubacar_Bah@outlook.be"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/envelope.svg" alt="Email" height="30" width="40" /></a>
+</p>
+
+<p align="center">
+  🌐 <a href="https://zorslow.github.io/portfolio/"><b>Mon Portfolio en ligne</b></a>
 </p>
 
 <p align="center">
