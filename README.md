@@ -5,20 +5,8 @@
 </p>
 
 <p align="center">
-  <b>💻 Junior Web Developer | Business Informatics Student @ISFCE</b><br>
+  <b>💻 Junior Web Developer | Business Informatics Student</b><br>
   📍 Brussels, Belgium 🇧🇪
-</p>
-
-<p align="center">
-  <i>"Combining professional maturity with a passion for clean code."</i>
-</p>
-
----
-
-<p align="center">
-  🚀 <b>Current Focus:</b> Deepening <b>React</b> & <b>Node.js</b> ecosystem.<br>
-  💡 <b>Strengths:</b> Adaptability, Problem Solving & Strong Work Ethic.<br>
-  📂 <b>Projects:</b> Feel free to explore my repositories below!
 </p>
 
 ---
@@ -61,5 +49,5 @@
 </p>
 
 <p align="center">
-  <b>"Curious, Motivated, Rigorous and Determined"</b>
+  <i>"Curious, Motivated, Rigorous and Determined"</i>
 </p>
