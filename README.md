@@ -8,7 +8,7 @@
 ### 🚀 À propos de moi
 - 🛠️ **Profil :** Développeur en formation supérieure avec un esprit d'analyse aiguisé.
 - 💼 **Expérience :** Plus de **6 ans d'expérience professionnelle**, garantissant une maturité, une ponctualité et une rigueur à toute épreuve.
-- 🎯 **Objectif :** Intégrer une équipe technique en **alternance** pour transformer des défis complexes en solutions web performantes.
+- 🎯 **Objectif :** Développeur Web en formation supérieure (Informatique de Gestion), je souhaite mettre mes compétences techniques en JavaScript et SQL au service de projets ambitieux. Mon parcours se distingue par une solide maturité professionnelle acquise en parallèle de mes études, me permettant d'apporter rigueur, autonomie et une excellente capacité d'adaptation à votre équipe technique.
 - 🌍 **Localisation :** Basé à Bruxelles, Belgique 🇧🇪.
 
 ---
@@ -39,6 +39,34 @@
 - 💼 **LinkedIn :** [Ton-Lien-LinkedIn-Ici]
 
 ---
+### 🔥 Languages - Frameworks - Tools 🔥
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,python,mysql,git,linux,vscode&perline=8" />
+  </a>
+</p>
+
+---
+
+### ⚡ Stats ⚡
+
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZorSlow&layout=compact&langs_count=7&theme=tokyonight" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ZorSlow&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+</p>
+
+<p align="center">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ZorSlow&theme=tokyonight" />
+</p>
+
+---
+
+### 📫 Me contacter
+<p align="center">
+<a href="https://www.linkedin.com/in/boubacar-bah-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Boubacar Bah" height="30" width="40" /></a>
+<a href="https://zorslow.github.io/portfolio/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="Portfolio" height="30" width="40" /></a>
+</p>
 
 <p align="center">
   <i>"Curieux, Motivé, Rigoureux et Déterminé"</i>
