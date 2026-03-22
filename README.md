@@ -11,14 +11,6 @@
 
 ---
 
-<p align="center">
-  🚀 <b>Currently focusing on JavaScript & SQL</b><br>
-  💼 6+ years of professional experience, bringing maturity and rigor to tech teams.<br>
-  📧 Reach me at: <a href="mailto:Boubacar_Bah@outlook.be">Boubacar_Bah@outlook.be</a>
-</p>
-
----
-
 <h3 align="center">🔥 Languages - Frameworks - Tools 🔥</h3>
 
 <p align="center">
@@ -57,5 +49,5 @@
 </p>
 
 <p align="center">
-  <i>"Curious, Motivated, Rigorous and Determined"</i>
+  <i>"Learning, practicing, and building."</i>
 </p>
